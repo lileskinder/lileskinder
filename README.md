@@ -1,4 +1,4 @@
-# Nobel Yosef
+# Nobel E Yosef
 
 👋 Hello! I'm Nobel, a seasoned Software Engineer with over 6 years of experience in crafting robust and scalable web and enterprise applications. I thrive on leveraging cutting-edge technologies to deliver high-quality software solutions that meet and exceed expectations. 
 
